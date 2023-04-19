@@ -6,6 +6,7 @@
 
 ## What am I currently working on? 💼
  - studying math and physics
+ - learning Rust and OpenQASM
  - improving my coffee skills
  - bringing [The After Message](https://twitter.com/theaftermessage) to life with a dream team
 
