@@ -14,7 +14,7 @@
  - write me an e-mail david.jopek@proton.me
  - check me on twitter [@JopekDavid](https://twitter.com/JopekDavid)
 
-## You support me 💸
+## You can support me 💸
 If you like what I'm doing and think it's useful and makes sense, I'd be grateful for your support.
   - Bitcoin : <strong> bc1q6u0c04jr6qsss42e4tkgfxzsk67043wrl4eupy </strong>
   - ⚡ : <strong> davjop@lnbc.cz </strong>
