@@ -1,5 +1,6 @@
 ## Hi there, I am Dávid Jopek 👋
  - a student
+ - a former athlete
  - co-founder of The After Message
  - an event manager and a barista at [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - curious about math, physics, cryptoanarchy and freedom
