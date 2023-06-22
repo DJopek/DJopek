@@ -4,6 +4,13 @@
  - an event manager and a barista at [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - curious about math, physics, cryptoanarchy and freedom
 
+## Tools and skills of mine 🔨
+ - advanced math and physics
+ - Python
+ - JavaScript
+ - Zsh and Bash
+ - Docker
+
 ## What am I currently working on? 💼
  - studying math and physics
  - learning Next.js and OpenQASM
