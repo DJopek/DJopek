@@ -10,6 +10,7 @@
  - JavaScript
  - Zsh and Bash
  - Docker
+ - making good coffee ☕️
 
 ## What am I currently working on? 💼
  - studying math and physics
