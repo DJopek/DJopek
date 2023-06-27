@@ -11,6 +11,7 @@
  - JavaScript
  - Zsh and Bash
  - Docker
+ - Git and GitHub
  - making good coffee ☕️
 
 ## What am I currently working on? 💼
