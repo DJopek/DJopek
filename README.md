@@ -14,7 +14,13 @@
  - Git and GitHub
  - making good coffee ☕️
 
-## What am I currently working on? 💼
+## What I've been through 💼
+- private tutor at [Doučka](http://www.doucka.com/)
+- freelancing and e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
+- event manager and barista at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
+- co-founder of [The After Message](https://twitter.com/theaftermessage)
+
+## What am I currently working on? 🔬
  - studying math and physics
  - learning Next.js
  - improving my coffee skills
