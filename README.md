@@ -9,6 +9,7 @@
  - advanced math and physics
  - Python
  - JavaScript
+ - TypeScript
  - Zsh and Bash
  - Docker
  - Git and GitHub
