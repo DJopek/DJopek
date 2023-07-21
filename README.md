@@ -10,6 +10,7 @@
  - Python
  - JavaScript
  - TypeScript
+ - OpenQASM
  - Zsh and Bash
  - Docker
  - Git and GitHub
