@@ -1,7 +1,7 @@
 ## Hi there, I am Dávid Jopek 👋
  - undergrad physics student
  - former dancesport athlete
- - co-founder of [The After Message](www.tams.wtf)
+ - co-founder of [The After Message](https://www.tams.wtf)
  - event manager and barista at [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - curious about math, physics, cryptoanarchy and freedom
 
@@ -20,13 +20,13 @@
 - private tutor at [Doučka](http://www.doucka.com/)
 - freelancing and e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
 - event manager and barista at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
-- co-founder of [The After Message](www.tams.wtf)
+- co-founder of [The After Message](https://www.tams.wtf)
 
 ## What am I currently working on? 🔬
  - studying math and physics
  - learning Next.js
  - improving my coffee skills
- - bringing [The After Message](www.tams.wtf) to life with a dream team
+ - bringing [The After Message](https://www.tams.wtf) to life with a dream team
 
 ## You can contact me 📱
  - write me an e-mail david.jopek@proton.me
