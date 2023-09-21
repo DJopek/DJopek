@@ -3,7 +3,7 @@
  - former dancesport athlete
  - co-founder of [The After Message](https://www.tams.wtf)
  - event manager and barista at [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
- - Physics and Engineering Marketing at DimensionLab
+ - Physics Marketing at DimensionLab
  - curious about math, physics, cryptoanarchy and freedom
 
 ## Tools and skills of mine 🔨
@@ -25,9 +25,8 @@
 
 ## What am I currently working on? 🔬
  - studying math and physics
- - learning Next.js
- - improving my coffee skills
  - bringing [The After Message](https://www.tams.wtf) to life with a dream team
+ - contributing to the DimensionLab's [SIML.AI](https://www.siml.ai) project
 
 ## You can contact me 📱
  - write me an e-mail david.jopek@proton.me
