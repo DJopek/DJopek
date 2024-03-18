@@ -3,7 +3,7 @@
  - former dancesport athlete
  - co-founder of [The After Message](https://www.tams.wtf)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
- - Physics & Marketing at DimensionLab
+ - Physics & Simulations at DimensionLab
  - curious about math, physics, cryptoanarchy and freedom
 
 ## Tools and skills of mine 🔨
