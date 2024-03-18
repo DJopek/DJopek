@@ -1,6 +1,7 @@
 ## Hi there, I am Dávid Jopek 👋
  - undergrad physics student at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
+ - soon to be triathlete
  - co-founder of [The After Message](https://www.tams.wtf)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - Physics & Engineering at DimensionLab
@@ -26,6 +27,7 @@
 ## What am I currently working on? 🔬
  - studying math and physics
  - contributing to the DimensionLab's [SIML.AI](https://www.siml.ai) project
+ - triathlon
 
 ## You can contact me 📱
  - write me an e-mail david.jopek@proton.me
