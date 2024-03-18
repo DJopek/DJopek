@@ -9,6 +9,7 @@
 
 ## Tools and skills of mine 🔨
  - advanced math and physics
+ - NVIDIA Modulus
  - Python
  - JavaScript
  - TypeScript
