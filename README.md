@@ -11,6 +11,7 @@
  - advanced math and physics
  - NVIDIA Modulus
  - Python
+ - Streamlit
  - JavaScript
  - TypeScript
  - OpenQASM
