@@ -1,7 +1,7 @@
 ## Hi there, I am Dávid Jopek 👋
  - undergrad physics student at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
- - soon to be triathlete
+ - triathlete
  - co-founder of [The After Message](https://www.tams.wtf)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - Physics & Engineering at DimensionLab
