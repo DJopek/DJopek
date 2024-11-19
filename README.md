@@ -2,9 +2,7 @@
  - undergrad physics student at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
  - triathlete
- - co-founder of [The After Message](https://www.tams.wtf)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
- - Physics & Engineering at DimensionLab
  - curious about math, physics, cryptoanarchy and freedom
 
 ## Tools and skills of mine 🔨
@@ -25,10 +23,11 @@
 - freelancing and e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
 - event manager and barista at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
 - co-founder of [The After Message](https://www.tams.wtf)
+- Physics & Engineering at [DimensionLab](https://www.dimensionlab.org/)
 
 ## What am I currently working on? 🔬
  - studying math and physics
- - contributing to the DimensionLab's [SIML.AI](https://www.siml.ai) project
+ - [Quantscient](https://quanscient.com/)
  - triathlon
 
 ## You can contact me 📱
