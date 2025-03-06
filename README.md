@@ -27,7 +27,7 @@
 
 ## What am I currently working on? 🔬
  - studying math and physics
- - [Quantscient](https://quanscient.com/)
+ - [Quanscient](https://quanscient.com/)
  - triathlon
 
 ## You can contact me 📱
