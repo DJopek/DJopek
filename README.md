@@ -11,6 +11,7 @@
  - NVIDIA Modulus
  - Python
  - Streamlit
+ - Mathematica
  - JavaScript
  - TypeScript
  - OpenQASM
