@@ -2,6 +2,7 @@
  - undergrad physics student at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
  - triathlete
+ - Junior Application Engineer at [Quanscient](https://quanscient.com/)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
  - curious about math, physics, cryptoanarchy and freedom
 
