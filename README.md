@@ -8,7 +8,7 @@
 
 ## Tools and skills of mine 🔨
  - advanced math and physics
- - NVIDIA Modulus
+ - NVIDIA PhysicsNeMo
  - Python
  - Streamlit
  - Mathematica
@@ -25,10 +25,10 @@
 - freelancing and e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
 - event manager and barista at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
 - co-founder of [The After Message](https://www.tams.wtf)
-- Physics & Engineering at [DimensionLab](https://www.dimensionlab.org/)
+- Physics & Engineering, Marketing and Research assistant at [DimensionLab](https://www.dimensionlab.org/)
 
 ## What am I currently working on? 🔬
- - studying math and physics
+ - studying math and physics, working on my thesis: Study of geodetic chaos by fractal methods 
  - [Quanscient](https://quanscient.com/)
  - triathlon
 
