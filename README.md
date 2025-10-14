@@ -22,9 +22,9 @@
 
 ## What I've been through 💼
 - private tutor at [Doučka](http://www.doucka.com/)
-- freelancing and e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
-- event manager and barista at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
-- co-founder of [The After Message](https://www.tams.wtf)
+- e-commerce manager at [Lifeboost](https://www.lifeboost.sk/)
+- event manager, barista and volunteer at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
+- [The After Message](https://www.tams.wtf)
 - Physics & Engineering, Marketing and Research assistant at [DimensionLab](https://www.dimensionlab.org/)
 
 ## What am I currently working on? 🔬
