@@ -22,6 +22,7 @@
 - event manager, barista and volunteer at [Parallel Polis Košice](https://www.paralelnapoliskosice.sk/)
 - [The After Message](https://www.tams.wtf)
 - Physics & Engineering, Marketing and Research assistant at [DimensionLab](https://www.dimensionlab.org/)
+- Bachelor thesis - [Fractal features of geodesic motion around perturbed black holes](https://github.com/DJopek/chaos/blob/main/study%20of%20geodetic%20chaos%20by%20fractal%20methods/thesis/Fractal%20features%20of%20geodesic%20motion%20around%20perturbed%20black%20holes.pdf)
 
 ## What am I currently working on? 🔬
  - studying mathematical and computational modeling, working on my thesis
