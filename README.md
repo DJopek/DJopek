@@ -1,20 +1,16 @@
 ## Hi there, I am Dávid Jopek 👋
- - undergrad physics student at [Charles University](https://www.mff.cuni.cz)
+ - grad student of mathematical and computational modeling at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
- - triathlete
+ - hobby triathlete
  - Junior Application Engineer at [Quanscient](https://quanscient.com/)
  - organisation team [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/) (as well as a huge fan of [Parallel Polis](https://vojdivon.sk/) in general)
- - curious about math, physics, cryptoanarchy and freedom
 
 ## Tools and skills of mine 🔨
  - advanced math and physics
+ - research
  - NVIDIA PhysicsNeMo
  - Python
- - Streamlit
  - Mathematica
- - JavaScript
- - TypeScript
- - OpenQASM
  - Zsh and Bash
  - Docker
  - Git and GitHub
@@ -28,7 +24,7 @@
 - Physics & Engineering, Marketing and Research assistant at [DimensionLab](https://www.dimensionlab.org/)
 
 ## What am I currently working on? 🔬
- - studying math and physics, working on my thesis: Study of geodetic chaos by fractal methods 
+ - studying mathematical and computational modeling, working on my thesis
  - [Quanscient](https://quanscient.com/)
  - triathlon
 
