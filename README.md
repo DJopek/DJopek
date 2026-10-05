@@ -1,5 +1,5 @@
 ## Hi there, I am Dávid Jopek 👋
- - grad student of mathematical and computational modeling at [Charles University](https://www.mff.cuni.cz)
+ - grad student - mathematical and computational modeling at [Charles University](https://www.mff.cuni.cz)
  - former dancesport athlete
  - hobby triathlete
  - Junior Application Engineer at [Quanscient](https://quanscient.com/)
