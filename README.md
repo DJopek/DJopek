@@ -26,7 +26,7 @@
 
 ## What am I currently working on? 🔬
  - studying mathematical and computational modeling, working on my thesis
- - [Quanscient](https://quanscient.com/)
+ - R&D at [Quanscient](https://quanscient.com/)
  - triathlon
 
 ## You can contact me 📱
